@@ -1,0 +1,36 @@
+body {
+  padding-top: 70px;
+  padding-bottom: 30px;
+  background: lightcyan;
+}
+div {
+  text-align: center;
+}
+.jumbotron {
+  margin: 100px 0;
+}
+.container {
+  margin: 100px auto;
+}
+.well {
+  font-size: 28px;
+}
+
+.btn-warning {
+  height: 100px;
+  width: 250px;
+  margin: 15px 10px;
+  color: black;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.hidden {
+  display: none;
+}
+
+.btn-danger {
+  padding: 10px 200px;
+  width: 100%;
+  margin: 50px 0px;
+}
